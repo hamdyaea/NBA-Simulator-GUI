@@ -1,6 +1,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
 
-#NBA Simulator
+# NBA Simulator
 
 ## What's this game ?  
 
