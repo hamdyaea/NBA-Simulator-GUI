@@ -25,7 +25,7 @@ sudo python3 -m pip install --upgrade easygui
 ## How to launch this game :  
 
 ```sh
-python3 WorldCup.py
+python3 NBA.py
 ```  
 
 
